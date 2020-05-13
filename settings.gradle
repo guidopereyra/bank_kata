@@ -1,0 +1,2 @@
+rootProject.name='Bank Kata'
+include ':app'
